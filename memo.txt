@@ -1,4 +1,4 @@
-GPIO memo
+LED and GPIO memo
 
 LED1 GPIO2
 Button1 GPIO7
