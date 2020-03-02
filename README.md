@@ -7,3 +7,4 @@ Compile speedbutton.py on command line with Raspberry Pi.
 # Files  
 - speedbytton.py (to move this program)
 - memo.txt (correspondance table in LED and GPIO)
+- README.md (This)
